@@ -32,6 +32,7 @@ require("lazy").setup({
     { import = "lazyvim.plugins.extras.linting.eslint" },
     { import = "lazyvim.plugins.extras.util.rest" },
     { import = "lazyvim.plugins.extras.lang.rust" },
+    { import = "lazyvim.plugins.extras.formatting.prettier" },
 
     -- TODO: There is an issue with nix_ls / cargo
     -- { import = "lazyvim.plugins.extras.lang.nix" },
