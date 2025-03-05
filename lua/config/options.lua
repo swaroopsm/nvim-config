@@ -5,3 +5,4 @@
 vim.o.wrap = true
 vim.o.swapfile = false
 vim.o.clipboard = ""
+vim.g.lazyvim_picker = "telescope"
